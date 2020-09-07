@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\bin\Debug\notepad4Me.exe.config
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\bin\Debug\notepad4Me.exe
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\bin\Debug\notepad4Me.pdb
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\obj\Debug\notepad4Me.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\obj\Debug\notepad4Me.frmMain.resources
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\obj\Debug\notepad4Me.Properties.Resources.resources
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\obj\Debug\notepad4Me.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\obj\Debug\notepad4Me.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\obj\Debug\notepad4Me.exe
+C:\Users\Julian\source\repos\notepad4Me\notepad4Me\obj\Debug\notepad4Me.pdb
